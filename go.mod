@@ -1,4 +1,4 @@
-module github.com/playy/osciris
+module github.com/vitaliitsarov/osciris
 
 go 1.25
 
