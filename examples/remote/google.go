@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/playy/osciris"
+	"github.com/vitaliitsarov/osciris"
 	"github.com/chromedp/chromedp"
 	"github.com/chromedp/cdproto/dom"
 	"github.com/chromedp/cdproto/input"

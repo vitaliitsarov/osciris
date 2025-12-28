@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/playy/osciris"
+	"github.com/vitaliitsarov/osciris"
 	fp "github.com/vitaliitsarov/fingerprint-injector-go"
 )
 

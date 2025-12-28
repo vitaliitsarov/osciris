@@ -32,3 +32,5 @@ require (
 // replace github.com/vitaliitsarov/fingerprint-injector-go => ../fingerprint-injector-go
 
 replace github.com/vitaliitsarov/fingerprint-injector-go => github.com/vitaliitsarov/fingerprint-injector-go v1.0.0
+
+replace github.com/vitaliitsarov/osciris => .
