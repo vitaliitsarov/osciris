@@ -17,7 +17,7 @@
 ## 📦 Установка
 
 ```bash
-go get github.com/playy/osciris
+go get github.com/vitaliitsarov/osciris
 ```
 
 ## 🎯 Быстрый старт
@@ -31,7 +31,7 @@ import (
     "context"
     "log"
     
-    "github.com/playy/osciris"
+    "github.com/vitaliitsarov/osciris"
     fp "github.com/vitaliitsarov/fingerprint-injector-go"
 )
 

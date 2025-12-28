@@ -8,7 +8,7 @@
 ## Установка библиотеки
 
 ```bash
-go get github.com/playy/osciris
+go get github.com/vitaliitsarov/osciris
 ```
 
 ## Установка зависимостей
